@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Nicolas Mele</h1>
+<h1 align="center">Hi 👋,I'm Nicolas Mele</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
 - 🌱 I’m currently learning **REACT.JS, NODE.JS**
